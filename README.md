@@ -2,6 +2,9 @@ Olá! Meu nome é Ralph Ramos, e sou um **Desenvolvedor Backend** com experiênc
 
 #### Soteropolitano apaixonado pelo universo tech, ficção científica, cultura geek, games de PC e acarajé. Desde meu primeiro contato com a tecnologia, minha curiosidade se transformou em paixão pelo mundo digital. Fiquei fascinado pelas inúmeras oportunidades que ela oferece e venho me aprimorando nesse campo desde então. Acredito que a tecnologia é a chave para transformar ideias em realidade e estou comprometido em contribuir para esse progresso. 👨
 
+### Projeto Banco
+https://github.com/RalphCajazeira/Curso-Cubos-Academy/tree/master/Back%20End/cubos-bank-api
+
 ## 👨🏻‍💻 Skills
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
