@@ -1,4 +1,4 @@
-Olá, Sou Ralph Ramos sou **Desenvolvedor Backend** desde 2023, com foco em Node.js, Javascript, Typescript, PostgreSQL e API Rest.
+Olá! Meu nome é Ralph Ramos, e sou um **Desenvolvedor Backend** com experiência desde 2023. Tenho o prazer de compartilhar que me formei na Cubos Academy, onde aprimorei minhas habilidades em Node.js, Javascript, Typescript, PostgreSQL e a criação de APIs Rest. Essa formação sólida me proporcionou um conhecimento robusto para enfrentar os desafios do desenvolvimento web.
 
 #### Soteropolitano apaixonado pelo universo tech, ficção científica, cultura geek, games de PC e acarajé. Desde meu primeiro contato com a tecnologia, minha curiosidade se transformou em paixão pelo mundo digital. Fiquei fascinado pelas inúmeras oportunidades que ela oferece e venho me aprimorando nesse campo desde então. Acredito que a tecnologia é a chave para transformar ideias em realidade e estou comprometido em contribuir para esse progresso. 👨
 
@@ -7,6 +7,7 @@ Olá, Sou Ralph Ramos sou **Desenvolvedor Backend** desde 2023, com foco em Node
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
