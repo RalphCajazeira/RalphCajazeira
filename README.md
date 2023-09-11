@@ -1,14 +1,8 @@
 Olá, Sou Ralph Ramos sou **Desenvolvedor Backend** desde 2023, com foco em Node.js, Javascript, Typescript, PostgreSQL e API Rest.
 
-#### Apaixonado por Tecnologia, Games e Ciência! 👨🏻‍💻🎮🔭
+#### Soteropolitano apaixonado pelo universo tech, ficção científica, cultura geek, games de PC e acarajé. Desde meu primeiro contato com a tecnologia, minha curiosidade se transformou em paixão pelo mundo digital. Fiquei fascinado pelas inúmeras oportunidades que ela oferece e venho me aprimorando nesse campo desde então. Acredito que a tecnologia é a chave para transformar ideias em realidade e estou comprometido em contribuir para esse progresso. 👨
 
-
-## 🌐 Como me encontrar:
-
-[![Link para o perfil do Linkedin de Diego Coriolano](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ralphcajazeira/)
-[![Escrever e-mail para Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](ralphmtk@gmail.com)
-
-## 👨🏻‍💻 Hard Skills
+## 👨🏻‍💻 Skills
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
@@ -19,7 +13,14 @@ Olá, Sou Ralph Ramos sou **Desenvolvedor Backend** desde 2023, com foco em Node
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-## 📈 Estatísticas para quem gosta!
+
+## 🌐 Contatos:
+
+[![Link para o perfil do Linkedin de Diego Coriolano](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ralphcajazeira/)
+[![Escrever e-mail para Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](ralphmtk@gmail.com)
+
+## 📈 Estatísticas!
 
 ![Principais estatísticas](https://github-readme-stats.vercel.app/api?username=RalphCajazeira&layout=compact&theme=dracula&show_icons=true&custom_title=Principais%20Estatisticas)
 ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RalphCajazeira&theme=dracula&show_icons=true&custom_title=Linguagens%20mais%20usadas)
+
