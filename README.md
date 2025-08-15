@@ -1,71 +1,78 @@
 # 👨‍💻 Ralph Ramos
 
-Olá! Meu nome é Ralph Ramos, e sou um **Desenvolvedor Backend** com experiência desde 2023. Tenho o prazer de compartilhar que me formei na Cubos Academy, onde aprimorei minhas habilidades em **Node.js, Javascript, Typescript, PostgreSQL** e a criação de **APIs Rest**. Atualmente, estou estudando **Full-Stack** na Rocketseat, onde continuo explorando e ampliando minhas competências em tecnologias modernas como React, Node.js, TypeScript, e práticas avançadas de desenvolvimento.
+Hello! My name is Ralph Ramos, and I am a **Backend Developer** with experience since 2023.  
+I graduated from Cubos Academy, where I strengthened my skills in **Node.js, JavaScript, TypeScript, PostgreSQL**, and the development of **REST APIs**.  
+Currently, I am studying **Full-Stack Development** at Rocketseat, continuously improving my knowledge in modern technologies such as React, Node.js, TypeScript, and advanced development practices.
 
 ---
 
-## 📖 Índice
+## 📖 Index
 
 <div align="center">
-  <a href="#sobre-mim">Sobre Mim</a> | 
-  <a href="#o-que-estou-estudando-atualmente">O que Estou Estudando</a> | 
-  <a href="#meu-portfólio-de-desenvolvedor">Meu Portfólio</a> | 
+  <a href="#about-me">About Me</a> | 
+  <a href="#currently-learning">Currently Learning</a> | 
+  <a href="#developer-portfolio">Portfolio</a> | 
   <a href="#-skills">Skills</a> | 
-  <a href="#-projetos-destacados">Projetos</a> | 
-  <a href="#-contatos">Contatos</a> | 
-  <a href="#-estatísticas">Estatísticas</a>
+  <a href="#-featured-projects">Featured Projects</a> | 
+  <a href="#-contacts">Contacts</a> | 
+  <a href="#-statistics">Statistics</a>
 </div>
 
 ---
 
-## Sobre Mim
+## About Me
 
-Soteropolitano apaixonado pelo universo tech, ficção científica, cultura geek, games de PC e acarajé. Desde meu primeiro contato com a tecnologia, minha curiosidade se transformou em paixão pelo mundo digital. Fiquei fascinado pelas inúmeras oportunidades que ela oferece e venho me aprimorando nesse campo desde então. Acredito que a tecnologia é a chave para transformar ideias em realidade e estou comprometido em contribuir para esse progresso. 👨
+I’m from Salvador, Brazil, and passionate about tech, science fiction, geek culture, PC games, and *acarajé* (a typical dish from Bahia).  
+Since my first contact with technology, my curiosity turned into a passion for the digital world.  
+I was fascinated by the countless opportunities it offers, and I’ve been honing my skills in this field ever since.  
+I believe technology is the key to turning ideas into reality, and I’m committed to contributing to this progress. 👨
 
 ---
 
-## O que Estou Estudando Atualmente
+## Currently Learning
 
-Estou imerso na **Formação Full-Stack da Rocketseat**, onde aprendo de forma prática e progressiva toda a jornada de desenvolvimento web. Meu aprendizado inclui:
+I’m immersed in the **Full-Stack program at Rocketseat**, where I learn step by step the journey of modern web development. My learning path includes:
 
-- **Fundamentos da Web**: Diferenças entre front-end e back-end, internet, sistemas operacionais e lógica básica de programação.  
-- **Ambiente e Versionamento**: Ferramentas como Git/GitHub para controle de código e colaboração.  
-- **Frontend**: HTML, CSS (responsivo, semântico, com animações), JavaScript, React (do básico ao avançado) e Tailwind CSS.  
-- **Typed JavaScript**: TypeScript aplicado em projetos reais para maior robustez.  
-- **Backend**: Node.js com Express para APIs REST, arquiteturas em container (Docker), testes automatizados (Jest) e boas práticas.  
-- **Banco de Dados**: PostgreSQL, SQLite e Prisma como ORM para integração.  
-- **Integração Backend–Frontend**: Comunicação eficiente entre camadas, deploy e uso de contêineres.  
-- **Boas práticas de mercado**: Código limpo, autenticação JWT, CI/CD, testes e escalabilidade.
-
-Cada módulo é consolidado em **projetos práticos**, como sistemas de agendamento, helpdesk e catálogos interativos.
+- **Web Fundamentals:** HTML & CSS basics and advanced layout/styling.  
+- **JavaScript:** solid base before moving to frameworks.  
+- **React:** Fundamentals, Getting Started, and Advanced — reusable components, props, state, and interactive interfaces.  
+- **Tailwind CSS:** utility-first styling integrated with React.  
+- **TypeScript:** static typing, interfaces, and advanced types.  
+- **Node.js & REST APIs:** HTTP server, middlewares, routes, error handling, and validation with **Zod**.  
+- **Authentication & Authorization:** practical use of **JWT**.  
+- **Databases & SQL:** relational modeling, queries, and best practices.  
+- **ORM & Query Builder:** **Prisma ORM** and **Knex.js**.  
+- **Containers & Deploy:** **Docker**, **Docker Compose**, backend & frontend deploy.  
+- **Practical Projects:** Delivery API with Docker, Postgres, Prisma, and Zod.  
+- **Version Control:** Git & GitHub.  
 
 ---
 
 ## 🛠 Skills
 
-| Frontend | Backend | Banco de Dados | Ferramentas |
-|----------|---------|----------------|-------------|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) |
+| Frontend | Backend | Databases | Tools |
+|----------|---------|-----------|-------|
+| ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=zod&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![REST_APIs](https://img.shields.io/badge/REST_APIs-005571.svg?style=for-the-badge) ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![Knex.js](https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
-## 🚀 Projetos Destacados
+## 🚀 Featured Projects
 
-- **[Portfólio de Desenvolvedor](https://ralphcajazeira.github.io/Portfolio-Dev/):** Um portfólio interativo para apresentar projetos e habilidades.  
-- **[API Rest - Bank](https://github.com/RalphCajazeira/cubos-bank-api):** Uma API para gerenciamento de contas bancárias com Node.js e PostgreSQL.  
+- **[Developer Portfolio](https://ralphcajazeira.github.io/Portfolio-Dev/):** An interactive portfolio to showcase projects and skills.  
+- **[REST API - Bank](https://github.com/RalphCajazeira/cubos-bank-api):** A banking account management API built with Node.js and PostgreSQL.  
 
 ---
 
-## 🌐 Contatos
+## 🌐 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ralphcajazeira/)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ralphmtk@gmail.com)
 
 ---
 
-## 📈 Estatísticas
+## 📈 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RalphCajazeira&layout=compact&theme=dracula&show_icons=true&custom_title=Principais%20Estatísticas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphCajazeira&theme=dracula&show_icons=true&custom_title=Linguagens%20mais%20usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RalphCajazeira&count_private=true&layout=compact&theme=dracula&show_icons=true&custom_title=Main%20Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphCajazeira&theme=dracula&show_icons=true&custom_title=Most%20Used%20Languages" />
 </div>
