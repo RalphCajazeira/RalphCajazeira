@@ -1,3 +1,5 @@
+🌐 Available in: [English](README.md) | [Português](README.pt.md)
+
 # 👨‍💻 Ralph Ramos
 
 Hello! My name is Ralph Ramos, and I am a **Backend Developer** with experience since 2023.  
